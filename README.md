@@ -1,4 +1,4 @@
-### 已完成功能
+﻿### 已完成功能
 + 管理员登录
 + 商品管理
 + 商品分类
@@ -8,7 +8,7 @@
 ### Build Setup
 
 + 安装bbgshop
-[GitHub](https://gitee.com/cyh1231wp/bbgshop-node)
+[GitHub](https://github.com/yuanbon)
 
 + 修改api地址
 src/renderer/main.js
@@ -27,4 +27,4 @@ npm run build:web
 
 # 测试账号
 admin
-admin888
+ admin888
